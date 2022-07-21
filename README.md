@@ -5,5 +5,5 @@ A custom responsive website that helps users get organized, remember activities,
 # Built with
 
 * HTML
-* CSS preprocessor (sass)
+* CSS preprocessor (scss)
 * JavaScript

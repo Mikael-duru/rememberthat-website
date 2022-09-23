@@ -7,3 +7,5 @@ A custom responsive website that helps users get organized, remember activities,
 * HTML
 * CSS preprocessor (scss)
 * JavaScript
+
+Live site: [https://mikael-duru.github.io/rememberthat-website/](https://mikael-duru.github.io/rememberthat-website/)
